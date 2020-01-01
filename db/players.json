@@ -1,0 +1,44 @@
+{
+  "player1": {
+    "imageUrl": "https://theofficeanalytics.files.wordpress.com/2017/11/dwight.jpeg?w=1200",
+    "name": "Dwight Schrute",
+    "position": "Qutside Hitter",
+    "uid": "cwt0RHMUgUWYtaV1mKF29b44OLi2"
+  },
+  "player2": {
+    "imageUrl": "https://pbs.twimg.com/profile_images/3171824697/ef75d90df2e65ce326acf30262df5918_400x400.jpeg",
+    "name": "Jim Halpert",
+    "position": "Right Side Hitter",
+    "uid": "cwt0RHMUgUWYtaV1mKF29b44OLi2"
+  },
+  "player3": {
+    "imageUrl": "https://i.pinimg.com/736x/bf/68/d8/bf68d81d964dbd8a51ce740d0c618041.jpg",
+    "name": "Pam Beesly",
+    "position": "Opposite Hitter",
+    "uid": "cwt0RHMUgUWYtaV1mKF29b44OLi2"
+  },
+  "player4": {
+    "imageUrl": "https://static2.srcdn.com/wordpress/wp-content/uploads/2018/04/Ed-Helms-as-Andy-Bernard-on-The-Office.jpg?q=50&fit=crop&w=740&h=370",
+    "name": "Andy Bernard",
+    "position": "Setter",
+    "uid": "cwt0RHMUgUWYtaV1mKF29b44OLi2"
+  },
+  "player5": {
+    "imageUrl": "https://productplacementblog.com/wp-content/uploads/2019/06/Canon-Camcorder-Used-by-Ellie-Kemper-Erin-Hannon-in-The-Office-2.jpg",
+    "name": "Erin Hannon",
+    "position": "Middle Blocker",
+    "uid": "cwt0RHMUgUWYtaV1mKF29b44OLi2"
+  },
+  "player6": {
+    "imageUrl": "https://cdn.jwplayer.com/v2/media/nGpMP4Zh/poster.jpg?width=720",
+    "name": "Creed Bratton",
+    "position": "Libero",
+    "uid": "cwt0RHMUgUWYtaV1mKF29b44OLi2"
+  },
+  "player7": {
+    "imageUrl": "https://i.ytimg.com/vi/rydz_pgY57k/maxresdefault.jpg",
+    "name": "Kelly Kapoor",
+    "position": "Defensive Specialist",
+    "uid": "12345"
+  }
+}
