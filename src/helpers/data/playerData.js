@@ -17,9 +17,7 @@ const getPlayersByUid = (uid) => new Promise((resolve, reject) => {
       }
       resolve(players);
     })
-    .catch((error) => {
-      reject(error);
-    });
+    .catch((error) => reject(error));
 });
 
 export default { getPlayersByUid };
