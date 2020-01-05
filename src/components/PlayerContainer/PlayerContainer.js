@@ -20,10 +20,18 @@ class PlayerContainer extends React.Component {
       .catch((errFromPlayersContainer) => console.error({ errFromPlayersContainer }));
   }
 
+  deleteSinglePlayer = (playerId) => {
+    playerData.deletePlayerById(playerId)
+      .then(() => {
+        this.getPlayers();
+      })
+      .catch((errorFromDeleteSinglePlayer) => console.error({ errorFromDeleteSinglePlayer }));
+  }
+
   render() {
     return (
-      <div>
-        {this.state.players.map((player) => (<Player key={player.id} player={player}/>))}
+      <div className="d-flex flex-wrap justify-content-between">
+        {this.state.players.map((player) => (<Player key={player.id} player={player} deleteSinglePlayer={this.deleteSinglePlayer} />))}
       </div>
     );
   }
