@@ -5,7 +5,7 @@
 This is a single page application that displays a dashboard of all the volleyball players that work at Dunder Mifflin.
 
 ## ScreenShots
-![main view]()
+![main view](https://raw.githubusercontent.com/CharityBunyon/sports-roster/master/images/Roster.png)
 
 
 ## How to run
