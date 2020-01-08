@@ -1,4 +1,21 @@
+# Sports Roster
+
+## Description
+
+This is a single page application that displays a dashboard of all the volleyball players that work at Dunder Mifflin.
+
+## ScreenShots
+![main view]()
+
+
+## How to run
+* Clone down this project from [GitHub](https://github.com/CharityBunyon/sports-roster)
+* Install [http-server](https://npmjs.com/package/http-server) from npm
+* At the root of this project, run the following command: `hs -p 8080`
+* In your browser, navigate to `https://localhost:8080`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
